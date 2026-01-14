@@ -48,15 +48,6 @@ SELECT
 FROM dw.customer;
 GO
 
--- Row count check
-SELECT COUNT(*) AS gold_rows FROM gold.dim_customer;
-SELECT COUNT(*) AS silver_rows FROM dw.customer;
-
--- Sample preview
-SELECT TOP 20 *
-FROM gold.dim_customer
-ORDER BY customer_key;
-
 -- Duplicate check safety
 SELECT customer_id, COUNT(*)
 FROM gold.dim_customer
