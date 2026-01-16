@@ -73,18 +73,18 @@ The project simulates a real-world analytics workflow commonly used in enterpris
 ![PowerBI Page 1](screenshots/report_page1.png)
 ![PowerBi Measures](screenshots/Semantic_model.png)
 
-🚀 Key Learnings & Skills Demonstrated
+## Key Learnings & Skills Demonstrated
 
-End-to-end Azure data engineering pipeline
+- End-to-end Azure data engineering pipeline
 
-Medallion architecture implementation
+- Medallion architecture implementation
 
-Dimensional modeling (star schema)
+- Dimensional modeling (star schema)
 
-Surrogate keys & fact/dimension design
+- Surrogate keys & fact/dimension design
 
-Data quality handling
+- Data quality handling
 
-Power BI semantic modeling & DAX
+- Power BI semantic modeling & DAX
 
-Business-focused analytics
+- Business-focused analytics
