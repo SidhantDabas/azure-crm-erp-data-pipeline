@@ -6,7 +6,7 @@ This project demonstrates an end-to-end Azure data engineering pipeline using sy
 The project simulates a real-world analytics workflow commonly used in enterprise environments.
 
 ## Architecture
-![Architecture Diagram](screenshots\Architecture_diagram.png)
+![Architecture Diagram](screenshots/Architecture_diagram.png)
 ### Flow:
 
 - Synthetic CSV data generated (Customers, Orders, Products, Employees, Inventory, Invoices)
@@ -51,7 +51,7 @@ The project simulates a real-world analytics workflow commonly used in enterpris
 - Optimised for BI consumption
 
 ## Gold Schema Design
-![Gold Schema Design](screenshots\Star_schema.png)
+![Gold Schema Design](screenshots/Star_schema.png)
 
 ## Technologies Used
 
@@ -70,8 +70,8 @@ The project simulates a real-world analytics workflow commonly used in enterpris
 - GitHub – Version control
 
 ## Power BI Dashboards
-![PowerBI Page 1](screenshots\report_page1.png)
-![PowerBi Measures](screenshots\Semantic_model.png)
+![PowerBI Page 1](screenshots/report_page1.png)
+![PowerBi Measures](screenshots/Semantic_model.png)
 
 🚀 Key Learnings & Skills Demonstrated
 
